@@ -28,11 +28,12 @@ domain: thomlake.github.io
 url: "https://thomlake.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/jekyll-test/" # the subpath of your site, e.g. /blog
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: twitter
+github_username:  thomlake
 
 # Build settings
 theme: minima
+markdown: GFM
 plugins:
   - jekyll-feed
 
